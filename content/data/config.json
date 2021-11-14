@@ -23,7 +23,7 @@
                 "label": "Our services",
                 "url": "/blog",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
