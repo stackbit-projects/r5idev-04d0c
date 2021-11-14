@@ -31,7 +31,7 @@
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
-        "borderRadius": "9999px",
+        "borderRadius": 0,
         "horizontalPadding": 24,
         "verticalPadding": 12,
         "shadow": "none"
