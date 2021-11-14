@@ -23,7 +23,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/arnold-francisca-f77Bh3inUpE-unsplash.jpg
+      url: /images/tai-bui-393l7SYoM7w-unsplash.jpg
       altText: Hero section image
     styles:
       self:
