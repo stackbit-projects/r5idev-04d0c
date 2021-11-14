@@ -36,7 +36,7 @@
                 "type": "Button",
                 "label": "Contact  Us",
                 "url": "/",
-                "altText": "Join us",
+                "altText": "Contact  Us",
                 "style": "secondary"
             }
         ],
