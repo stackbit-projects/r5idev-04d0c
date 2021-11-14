@@ -26,7 +26,7 @@
     "secondary": "#ffffff",
     "neutral": "#000000",
     "complementary": "#e8fff8",
-    "complementaryAlt": "#ffe3f1",
+    "complementaryAlt": "#f4e3ff",
     "buttonPrimary": {
         "weight": "normal",
         "case": "none",
