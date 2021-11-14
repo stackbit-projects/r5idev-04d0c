@@ -37,7 +37,7 @@
                 "type": "Button",
                 "label": "Contact  Us",
                 "url": "/",
-                "altText": "Contact  Us",
+                "altText": "Contact  us",
                 "style": "secondary"
             }
         ],
